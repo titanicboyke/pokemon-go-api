@@ -12,18 +12,18 @@ The current Source can be found in the bottom of the Raid Info Graphics.
 
 **German version**
 
-![Current Raidlist - German](https://pokemon-go-api.github.io/pokemon-go-api/api/graphics/German/default.png)
+![Current Raidlist - German](https://titanicboyke.github.io/pokemon-go-api/api/graphics/German/default.png)
 
 **English version**
 
-![Current Raidlist - German](https://pokemon-go-api.github.io/pokemon-go-api/api/graphics/English/default.png)
+![Current Raidlist - German](https://titanicboyke.github.io/pokemon-go-api/api/graphics/English/default.png)
 *Alternative Version*  
-![Current Raidlist - German](https://pokemon-go-api.github.io/pokemon-go-api/api/graphics/English/reverse.png)
+![Current Raidlist - German](https://titanicboyke.github.io/pokemon-go-api/api/graphics/English/reverse.png)
 
 ## How to use
 The latest resources are available on the Github page as an JSON API with an OpenAPI Documentation.
 
-Visit https://pokemon-go-api.github.io/pokemon-go-api/ for the public available API hosted as Github Page.
+Visit https://titanicboyke.github.io/pokemon-go-api/ for the public available API hosted as Github Page.
 
 ### Use as local version
 If you want to host the API by your own you can download this Project and run the following commands to Update the files.
