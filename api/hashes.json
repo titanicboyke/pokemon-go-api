@@ -1,0 +1,7 @@
+{
+    "sha512": {
+        "raidboss.json": "e9c3ea6d0fbfb38b7b006b8b42a0339ec12c9d2babd0da15b62cffa08a4b8b2badb0e03d1bbd0cb0293ea6c58e602db0f993b6583d695d12bdc808a4bc1f67ee",
+        "pokedex.json": "d78b1c0bc6b73c8659117bc10317f11d9ab9c13156a5156b8f23ac765035bd71b2d1cb497db1ea0eb2357869c9c0be925d2d3e93af1b50f2bedf1d8b87ae156c",
+        "quests.json": "bd9cdfc6e68a571d7ce439068738f8c12dc830a7dfb56ac44dd4c44b49c622e45c41be8317883daf4f0a051e4a4fb98e8e02347b7ad088002e01dfec04ea75b1"
+    }
+}
